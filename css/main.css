@@ -26,41 +26,6 @@ img{
 }
 
 
-
-/*********************************************
-HEADING
-**********************************************/
-
-
-
-header{
-	float: left;
-	margin: 0 0 30px 0;
-	padding: 5px 0 0 0;
-	width: 100%;
-}
-#logo{
-text-align:center;
-margin:0;
-	
-}
-
-h1{
-	font-family: 'Changa one', sans-serif;
-	margin: 15px 0;
-	font-size: 1.75em;
-	font-weight: normal; 
-	line-height: 0.8em;
-		
-}
-
-h2{
-	font-size: 0.75em;
-	margin: 5px 0 0;
-	font-weight: normal;
-}
-
-
 /* ================================= 
   Base Layout Styles
 ==================================== */
@@ -244,19 +209,19 @@ COLORS
 
 /* site body */
 body{
-	background-color:#fff;
+	background-color: whiteSmoke;
 	color:#999;
 }
 		
 
-/* green header */
+/* whiteSmoke header */
 header{
-	background:#6ab47b;
+	background:whiteSmoke;
 	border-color:#599a68;
 }
 /*nav background on mobile */
 nav{
-	background:#599a68;
+	background:whiteSmoke;
 }
 /*logo text*/
 h1,h2{
