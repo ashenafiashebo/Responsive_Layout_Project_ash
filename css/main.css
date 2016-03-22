@@ -5,7 +5,9 @@ GENERAL
 body{
 	font-family: 'Open Sans', sans-serif;
 }
-
+.main-section{
+	background-color: #fff;
+}
 .container{
  max-width:940px;
  margin:0 auto;
