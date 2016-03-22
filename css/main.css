@@ -25,7 +25,26 @@ img{
 	margin: 0 0 1em 0;
 }
 
+/* ---- Layout Containers ---- */
 
+.container{
+  
+  padding-left:1em;
+  padding-right: 1em;
+  
+ 
+}
+
+.main-header {
+  background: whiteSmoke;
+  padding: 1em 0;
+}
+
+.main-footer {
+  text-align: center;
+  padding: 2em 0;
+  background: whiteSmoke;
+}
 
 /*********************************************
 HEADING
@@ -33,17 +52,7 @@ HEADING
 
 
 
-header{
-	float: left;
-	margin: 0 0 30px 0;
-	padding: 5px 0 0 0;
-	width: 100%;
-}
-#logo{
-text-align:center;
-margin:0;
-	
-}
+
 
 h1{
 	font-family: 'Changa one', sans-serif;
