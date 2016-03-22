@@ -58,7 +58,7 @@
 			
 	}
 	
-	#logo{
+	.name{
 		float: left;
 		margin-left: 5%;
 		text-align: left;
@@ -73,8 +73,8 @@
 		font-size: 0.825em;
 		margin-bottom: 20px;
 	}
-	header{
-		border-bottom: 5px solid #599a68;
+	.main-header{
+	
 		margin-bottom: 60px;
 	}
 
