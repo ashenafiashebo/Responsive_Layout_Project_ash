@@ -98,6 +98,7 @@ footer{
 	font-size: 0.75em;
 	text-align: center;
 	clear: both;
+	border-top: 2px lightgray solid ;
 	padding-top: 50px;
 	color: black;
 	float: left;
