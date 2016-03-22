@@ -45,6 +45,7 @@ header{
 .logo{
 text-align:left;
 margin:0;
+display: inline-block;
 	
 }
 
@@ -58,14 +59,10 @@ h1{
 }
 
 h2{
-	font-size: 0.5em;
+        font-size: 0.5em;
 	margin: 5px 0 0;
 	font-weight: normal;
 }
-
-
-
-
 
 /*********************************************
 NAVIGATION
@@ -105,14 +102,6 @@ footer{
 	color: black;
 	
 }
-
-.social-icon{
-	width: 20px;
-	height: 20px;
-	margin: 0 5px;
-}
-
-
 
 /*********************************************
 PAGE: PORTFOLIO
