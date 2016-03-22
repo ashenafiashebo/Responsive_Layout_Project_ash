@@ -25,6 +25,15 @@ img{
 	margin: 0 0 1em 0;
 }
 
+/* ================================= 
+  Base Layout Styles
+==================================== */
+/*Navigation*/
+
+.name{
+  margin: 0;
+}
+
 /* ---- Layout Containers ---- */
 
 .container{
