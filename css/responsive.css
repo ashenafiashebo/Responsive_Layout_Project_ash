@@ -65,7 +65,10 @@
 		width: 45%;
 			
 	}
-	
+	.name,
+	.main-nav{
+		display: inline-block;
+	}
 	h1{
 		font-size: 1.5em;
 	}
