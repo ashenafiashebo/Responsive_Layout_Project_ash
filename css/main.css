@@ -139,7 +139,7 @@ PAGE: PORTFOLIO
 
 
 /*********************************************
-PAGE: ABOUT
+PAGE: HOME
 **********************************************/
 
 .profile-photo{
@@ -190,7 +190,7 @@ COLORS
 
 /* site body */
 body{
-	background-color:#fff;
+	background-color:lightgray;
 	color:#999;
 }
 		
