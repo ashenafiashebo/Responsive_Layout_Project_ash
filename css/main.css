@@ -195,10 +195,10 @@ body{
 }
 		
 
-/* green header */
+/* lightgray body */
 header{
-	background:#6ab47b;
-	border-color:#599a68;
+	background:#999;
+	border-color:none;
 }
 /*nav background on mobile */
 nav{
