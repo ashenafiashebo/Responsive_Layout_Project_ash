@@ -124,14 +124,6 @@ footer{
 	
 }
 
-.social-icon{
-	width: 20px;
-	height: 20px;
-	margin: 0 5px;
-}
-
-
-
 /*********************************************
 PAGE: PORTFOLIO
 **********************************************/
@@ -219,7 +211,7 @@ body{
 /* whiteSmoke header */
 header{
 	background:whiteSmoke;
-	border-color:#599a68;
+
 }
 /*nav background on mobile */
 nav{
@@ -227,12 +219,12 @@ nav{
 }
 /*logo text*/
 h1,h2{
-	color:#fff;
+	color:black;
 }
 
 /* link */
 a{
-	color:#6ab47b;
+	color:black;
 }
 
 
