@@ -6,11 +6,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-.container{
- max-width:940px;
- margin:0 auto;
- padding:0 5%;
-}
+
 
 a{
 
@@ -229,6 +225,26 @@ nav a, nav a:visited{
 nav a.selected, nav a:hover {
 	color:#32673f;
 	}
+	
+	
+	
+/* ================================= 
+  Media Queries
+==================================== */
+	
+	@media ( min-width:769px) {
+
+.wrap {
+  min-height: calc( 100vh - 89px);
+}
+
+.container {
+
+         width: 70%;
+         max-width: 1000px;
+         margin: 0 auto;
+}
+}
 
 		
 	
