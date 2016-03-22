@@ -47,6 +47,10 @@ img{
  
 }
 
+#gallery{
+background: #fff;	
+}
+
 .main-header {
   background: whiteSmoke;
   padding: 1em 0;
