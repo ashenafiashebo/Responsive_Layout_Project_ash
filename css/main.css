@@ -1,24 +1,65 @@
-/* ================================= 
-  Base Element Styles
-==================================== */
- 
-* {
-  
-  box-sizing: border-box;
-  
+/*********************************************
+GENERAL
+**********************************************/
+
+body{
+	font-family: 'Open Sans', sans-serif;
 }
 
-body {
-	line-height: 1.6;
-	color: whiteSmoke;
+#wrapper{
+ max-width:940px;
+ margin:0 auto;
+ padding:0 5%;
+}
+
+a{
+
+	text-decoration:none;
 
 }
 
-
-a { 
-	color: #fff;
-	text-decoration: none;
+img{
+	max-width: 100%;
 }
+ h3{
+	margin: 0 0 1em 0;
+}
+
+
+
+/*********************************************
+HEADING
+**********************************************/
+
+
+
+header{
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+#logo{
+text-align:center;
+margin:0;
+	
+}
+
+h1{
+	font-family: 'Changa one', sans-serif;
+	margin: 15px 0;
+	font-size: 1.75em;
+	font-weight: normal; 
+	line-height: 0.8em;
+		
+}
+
+h2{
+	font-size: 0.75em;
+	margin: 5px 0 0;
+	font-weight: normal;
+}
+
 
 /* ================================= 
   Base Layout Styles
