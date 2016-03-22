@@ -191,18 +191,18 @@ COLORS
 /* site body */
 body{
 	background-color:lightgray;
-	color:#999;
+	color:black;
 }
 		
 
 /* lightgray body */
 header{
-	background:#999;
+	background:lightgray;
 	border-color:none;
 }
 /*nav background on mobile */
 nav{
-	background:#599a68;
+	background:lightgray;
 }
 /*logo text*/
 h1,h2{
