@@ -1,28 +1,23 @@
-/*********************************************
-GENERAL
-**********************************************/
-
-body{
-	font-family: 'Open Sans', sans-serif;
+/* ================================= 
+  Base Element Styles
+==================================== */
+ 
+* {
+  
+  box-sizing: border-box;
+  
 }
 
-#wrapper{
- max-width:940px;
- margin:0 auto;
- padding:0 5%;
-}
-
-a{
-
-	text-decoration:none;
+body {
+	line-height: 1.6;
+	color: whiteSmoke;
 
 }
 
-img{
-	max-width: 100%;
-}
- h3{
-	margin: 0 0 1em 0;
+
+a { 
+	color: #fff;
+	text-decoration: none;
 }
 
 /* ================================= 
