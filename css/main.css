@@ -6,7 +6,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-#wrapper{
+.container{
  max-width:940px;
  margin:0 auto;
  padding:0 5%;
@@ -41,7 +41,7 @@ header{
 	padding: 5px 0 0 0;
 	width: 100%;
 }
-#logo{
+.logo{
 text-align:center;
 margin:0;
 	
