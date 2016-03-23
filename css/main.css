@@ -76,7 +76,10 @@ img {
 
 }
 
-/* Set the fixed height of the footer here */
+.primary-content{
+	padding-right: 1em;
+	padding-left: 1em;
+}
 .main-footer {
 background: #d9e4ea;
 padding: 2em 0;
