@@ -99,8 +99,9 @@ img {
 	width: 190px;
 	float: right;
 }
-.headline{
+.tagline{
   margin-bottom: 0;
+  float: left;
 }
 /* ================================= 
   Media Queries
