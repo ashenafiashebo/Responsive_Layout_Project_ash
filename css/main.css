@@ -12,7 +12,7 @@ body{
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  background-color:#fff;
+  background-color:#blue;
   /* Negative indent footer by its height */
   margin: 0 auto -60px;
   /* Pad bottom by footer height */
