@@ -9,7 +9,7 @@ body{
 
 /* Wrapper for page content to push down footer */
 
-.wrap 
+
 .primary-conten{
 	width: 70%;
 	margin: 0 auto;
@@ -43,6 +43,7 @@ img{
 /*Navigation*/
 
 .name{
+  font-size: 1.25em;
   margin: 0;
 }
 
