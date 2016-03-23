@@ -88,13 +88,6 @@ img {
 	background: #d9e4ea;
 	padding: 2em 0;
 	margin-top: 30px;
-}
-.gallery li{
-	width: 28.3333%;
-}
-.gallery li:nth-child(4n){
-	clear: left;
-}
 
 /* ---- Page Elements ---- */
 
@@ -132,6 +125,13 @@ img {
 .tagline{
   font-size: 1.4em;
 
+}
+}
+.gallery li{
+	width: 28.3333%;
+}
+.gallery li:nth-child(4n){
+	clear: left;
 }
 
 }
