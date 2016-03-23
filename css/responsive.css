@@ -6,11 +6,14 @@
 	
 	.primary-content{
 		width: 80%;
-		float: none;
+		float: left;
+	}
+	.main-footer{
+	width: 20%;
+	float: left;
 	}
 	
 }
-
  /*********************************************
  PAGE: PORTFOLIO
  **********************************************/
