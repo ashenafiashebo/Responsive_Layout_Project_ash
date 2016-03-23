@@ -1,40 +1,39 @@
-/*********************************************
-GENERAL
-**********************************************/
+/* ================================= 
+  Base Element Styles
+==================================== */
 
-body{
-	font-family: 'Open Sans', sans-serif;
-
+* {
+	box-sizing: border-box;
 }
 
-/* Wrapper for page content to push down footer */
-
-
-.primary-content{
-	width: 70%;
-	margin: 0 auto;
-	
+body {
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.6;
+	color: #3a3a3a;
 }
 
-a{
-
-	text-decoration:none;
-
+p {
+	font-size: .95em;
+	margin-bottom: 1.8em;
 }
 
-img{
-	max-width: 100%;
-}
- h3{
-	margin: 0 0 1em 0;
+h2,
+h3,
+a {
+	color: #093a58;
 }
 
-.contact{ 
+h2,
+h3 {
 	margin-top: 0;
-	color: green;
-	position: relative;
-	display:block;
-	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
 }
 
 /* ================================= 
