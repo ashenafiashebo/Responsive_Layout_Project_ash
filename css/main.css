@@ -47,14 +47,12 @@ img{
  
 }
 
-
-
 .main-header {
   background: yellow;
   padding: 4em 0;
+  display:block;
  
 }
-
 
 h1{
 
