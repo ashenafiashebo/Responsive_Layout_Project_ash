@@ -56,14 +56,14 @@ img{
 }
 
 .main-header {
-  width:100px;
+  height:100px;
   background: yellow;
   padding: 4em 0;
 
  
 }
 .main-footer {
- width:85px;
+ height: 85px;
  border: 2px solid red;
  background: yellow;
  padding: 4em 0;
