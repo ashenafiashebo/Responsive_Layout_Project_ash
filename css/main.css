@@ -28,6 +28,7 @@ img{
 	margin: 0 0 1em 0;
 }
 p{
+	position: relative;
 	display:block;
 	text-align: center;
 }
