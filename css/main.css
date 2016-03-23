@@ -81,7 +81,6 @@ img {
         margin-bottom: 60px;
 }
 .secondary col {
-  
   padding-right: 1em;
   padding-left: 1em;
 }
@@ -109,7 +108,7 @@ img {
 .secondary col {
   width: 100%;
   margin: 0 auto;
-  float: none;
+
 }
 .name
  {
