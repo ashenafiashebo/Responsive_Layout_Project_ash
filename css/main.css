@@ -27,15 +27,17 @@ img{
  h3{
 	margin: 0 0 1em 0;
 }
-p{
-	position: relative;
-	display:block;
-	text-align: center;
 
-}
+
+
+
+
 .contact{ 
 	margin-top: 0;
 	color: green;
+	position: relative;
+	display:block;
+	text-align: center;
 }
 
 /* ================================= 
