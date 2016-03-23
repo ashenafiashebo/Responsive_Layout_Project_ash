@@ -35,10 +35,6 @@ img{
 	margin: 0 0 1em 0;
 }
 
-
-
-
-
 .contact{ 
 	margin-top: 0;
 	color: green;
@@ -59,15 +55,11 @@ img{
 /* ---- Layout Containers ---- */
 
 
- 
-}
-
 .main-header {
 
   background: yellow;
   padding: 4em 0;
 
- 
 }
 
 /* Set the fixed height of the footer here */
