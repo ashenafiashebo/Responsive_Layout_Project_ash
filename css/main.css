@@ -56,6 +56,11 @@ img{
      padding: 10px 15px;
 }
 
+.primary-content,
+.main-footer {
+	text-align: center;
+}
+
 /* ---- Layout Containers ---- */
 
 
