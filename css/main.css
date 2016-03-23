@@ -131,6 +131,7 @@ img {
 }
 .tagline{
   font-size: 1.4em;
+  float: left;
 }
 
 
