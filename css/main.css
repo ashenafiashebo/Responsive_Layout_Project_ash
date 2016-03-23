@@ -10,12 +10,14 @@ body{
 /* Wrapper for page content to push down footer */
 
 
-.primary-conten{
+.primary-content{
 	width: 70%;
 	margin: 0 auto;
 	
 }
-
+.profile-picture{
+	float: right;
+}
 a{
 
 	text-decoration:none;
