@@ -240,7 +240,10 @@ nav a, nav a:visited{
 nav a.selected, nav a:hover {
 	color:#32673f;
 	}
-	
+/* **********PAGE ELEMENTS************/
+.picture{
+	width: 190px;
+}
 	
 	
 
