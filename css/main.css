@@ -244,7 +244,26 @@ nav a.selected, nav a:hover {
 .picture{
 	width: 190px;
 }
+
+/*********************************************
+Media Query
+**********************************************/
+
+@media (min-width: 769px) {
 	
+	.container{
+		
+	}
+
+	/* ---- Float clearfix ---- */
+
+	.clearfix::after {
+		content: " ";
+		display: table;
+		clear: both;
+	}
+
+}	
 	
 
 
