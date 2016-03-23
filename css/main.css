@@ -12,11 +12,7 @@ body{
  
 }
 
-/* Set the fixed height of the footer here */
-.main-footer {
-  height: 60px;
-  background-color: red;
-}
+
 
 .primary-container { 
  max-width:940px;
@@ -72,14 +68,18 @@ img{
 }
 
 .main-header {
-  height:100px;
+
   background: yellow;
   padding: 4em 0;
 
  
 }
 
-
+/* Set the fixed height of the footer here */
+.main-footer {
+  height: 60px;
+  background-color: red;
+}
 h1{
 
 	margin: 15px 0;
