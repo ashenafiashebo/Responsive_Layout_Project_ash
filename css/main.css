@@ -133,6 +133,14 @@ img {
   font-size: 1.4em;
 
 }
+.gallery li{
+	width: 28.3333%;
+}
+.gallery li:nth-child(4n){
+	clear: left;
+}
+}
+
 
 
 
@@ -158,11 +166,6 @@ img {
   
 }
 
-.gallery li{
-	width: 28.3333%;
-}
-.gallery li:nth-child(4n){
-	clear: left;
-}
+
 }
 
