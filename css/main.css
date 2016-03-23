@@ -9,7 +9,8 @@ body{
 
 /* Wrapper for page content to push down footer */
 
-.wrap{
+.wrap ,
+.primary-conten{
 	width: 70%;
 	margin: 0 auto;
 	
