@@ -52,6 +52,7 @@ img{
 .main-header {
   background: yellow;
   padding: 1em 0;
+  margin-bottom:50px;
 }
 
 .main-footer {
