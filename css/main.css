@@ -106,7 +106,7 @@ img {
 
 @media (min-width: 769px) {
 
-.container {
+.secondary col {
   width: 100%;
   margin: 0 auto;
 }
@@ -115,9 +115,6 @@ img {
   float:left;
 }
 
-.secondary col {
-  width: 50%;
-}
 .main-nav {
   float:right;
 }
@@ -153,7 +150,7 @@ img {
 
 @media (min-width: 1025px) {
 
-.container {
+.secondary col {
   width: 100%;
   max-width: 1150px;
 }
