@@ -154,15 +154,9 @@ img {
 @media (min-width: 1025px) {
 
 .container {
-  width: 80%;
+  width: 100%;
   max-width: 1150px;
 }
-
-.seconday col {
-  width: 100%;
-  
-}
-
 
 }
 
