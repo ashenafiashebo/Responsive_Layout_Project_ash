@@ -5,13 +5,10 @@
  **********************************************/
 	
 	.primary-content{
-		width: 80%;
-		float: left;
+		width: 100%;
+		float: none;
 	}
-	.main-footer{
-	width: 20%;
-	float: right;
-	}
+
 	
 }
  /*********************************************
