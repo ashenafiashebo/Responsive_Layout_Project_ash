@@ -4,9 +4,7 @@ GENERAL
 
 body{
 	font-family: 'Open Sans', sans-serif;
-	{
-  height: 100%;
-  /* The html and body elements cannot have any padding or margin. */
+	height: 100%; /* The html and body elements cannot have any padding or margin. */
 }
 
 /* Wrapper for page content to push down footer */
@@ -32,7 +30,7 @@ body{
  max-width:940px;
  margin:0 auto;
  
- padding-top: 60px;
+
 
 
 }
@@ -84,15 +82,7 @@ img{
 
  
 }
-.main-footer {
- height: 85px;
- border: 2px solid red;
- background: yellow;
- padding: 0;
- margin: 0 auto;
- position: absolute bottom;
-	
-}
+
 
 h1{
 
