@@ -9,9 +9,6 @@
 		float: none;
 	}
 	
-
-	
-	
 }
 
  /*********************************************
@@ -81,7 +78,7 @@
 	}
 	.main-header{
 	
-		margin-bottom: 60px;
+		margin-bottom: 0;
 	}
 	
 	.main-footer {
