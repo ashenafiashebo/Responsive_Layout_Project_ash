@@ -56,12 +56,15 @@ img{
 }
 
 .main-header {
+  width:100px;
   background: yellow;
   padding: 4em 0;
 
  
 }
 .main-footer {
+ width:85px;
+ border: 2px solid red;
  background: yellow;
  padding: 4em 0;
  margin: 0 auto;
