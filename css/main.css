@@ -9,7 +9,10 @@ body{
 
 /* Wrapper for page content to push down footer */
 
-
+.wrap{
+	width: 70%;
+	background-color:#fff;
+}
 
 a{
 
