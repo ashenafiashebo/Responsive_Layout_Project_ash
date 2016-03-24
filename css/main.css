@@ -130,9 +130,8 @@ img {
   margin-left: 15px;
 }
 .tagline{
-  font-size: 1.4em;
+  font-size: 1em;
 }
-
 	/* ---- Float clearfix ---- */
 
 	.clearfix::after {
@@ -140,7 +139,6 @@ img {
 		display: table;
 		clear: both;
 	}
-
 }
 
 @media (min-width: 1025px) {
@@ -152,7 +150,7 @@ img {
 .primary,
 .secondary,
 .tertiary {
-   width: 28.3333%;	
+   width: 33.3333%;	
 }
 }
 
