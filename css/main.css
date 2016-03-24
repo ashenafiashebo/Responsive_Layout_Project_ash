@@ -100,7 +100,7 @@ img {
 	width: 190px;
 	float: right;
 }
-.tagline {
+.headline{
   margin-bottom: 0;
 }
 /* ================================= 
@@ -148,11 +148,13 @@ img {
   width: 80%;
   max-width: 1150px;
 }
-.primary,
+.primary {
+  width: 40%;
+  
+}
 .secondary,
-.tertiary
- {
-   width: 33.33%;	
+.tertiary {
+  width: 30%;
 }
 }
 
