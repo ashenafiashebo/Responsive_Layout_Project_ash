@@ -118,11 +118,11 @@ img {
   float:left;
 }
 .secondary col{
-	float:none;
+	float:left;
 }
 
 .secondary col {
-   width: 50%;	
+   width: 45%;	
 }
 .main-nav {
   float:right;
@@ -142,14 +142,11 @@ img {
 		clear: both;
 	}
 }
-
 @media (min-width: 1025px) {
-
 .container {
   width: 80%;
   max-width: 1150px;
 }
-
 .secondary col
  {
   width: 33.33%;
