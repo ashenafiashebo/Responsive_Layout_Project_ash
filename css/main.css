@@ -114,12 +114,13 @@ img {
   margin: 0 auto;
 }
 .name,
-.secondary col
+.col
  {
   float:left;
 }
 
-.secondary col {
+.primary,
+.secondary {
    width: 50%;	
 }
 .main-nav {
@@ -147,10 +148,11 @@ img {
   width: 80%;
   max-width: 1150px;
 }
-
-.secondary col
+.primary,
+.secondary,
+.tertiary
  {
-   width: 26.6666%;	
+   width: 33.33%;	
 }
 }
 
