@@ -120,7 +120,7 @@ img {
 }
 .primary,
 .secondary {
-   width 50%;	
+   width: 50%;	
 }
 .main-nav {
   float:right;
