@@ -83,7 +83,7 @@ img {
         padding: 3.2em 0;
         margin-bottom: 60px;
 }
-.container {
+.col {
   padding-right: 1em;
   padding-left: 1em;
  
@@ -121,7 +121,7 @@ img {
 
 .primary,
 .secondary {
-   width: 45%;	
+   width: 50%;	
 }
 .main-nav {
   float:right;
@@ -130,8 +130,8 @@ img {
   display: inline-block;
   margin-left: 15px;
 }
-.tagline{
-  font-size: 1em;
+.tagline {
+  font-size: 1.4em;
 }
 	/* ---- Float clearfix ---- */
 
