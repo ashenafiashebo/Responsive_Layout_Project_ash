@@ -147,11 +147,9 @@ img {
   width: 80%;
   max-width: 1150px;
 }
-.primary{
- width:40;
-}
+.primary,
 .secondary,
-.tertiary  {
+.tertiary {
    width: 30%;	
 }
 }
