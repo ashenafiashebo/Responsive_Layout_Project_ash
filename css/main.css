@@ -83,10 +83,10 @@ img {
         padding: 3.2em 0;
         margin-bottom: 60px;
 }
-.secondary col {
+.container {
   padding-right: 1em;
   padding-left: 1em;
-  background: #fff;
+ 
 }
 .main-footer {
 	background: #d9e4ea;
