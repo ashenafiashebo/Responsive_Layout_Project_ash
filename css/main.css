@@ -145,12 +145,13 @@ img {
   width: 80%;
   max-width: 1150px;
 }
-.primary,
-.secondary,
-.tertiary
- {
-  width: 33.33%;
+  .feat-img {
+	width: 28.3333%;
 }
+.feat-img:nth-child(4n){
+	clear: left;
+}
+
 
 }
 
