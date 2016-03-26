@@ -147,15 +147,15 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
- .name a{
+ .name a {
  	float:none;
- 	
+ 	display: inline-block;
  }
 .name a,
 .main-nav li {
  
   text-align: center;
-  display: inline-block;
+ 
   padding: 10px 15px;
 }
 .tagline {
