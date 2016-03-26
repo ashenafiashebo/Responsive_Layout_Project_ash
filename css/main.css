@@ -174,13 +174,11 @@ PAGE: PORTFOLIO
 }
 .name-footer a{
 	float: left;
-
-	
+        padding: 10px 15px;
 }
 .main-nav-footer a{
 	float: right;
-	text-align: right;
-       
+
         padding: 10px 15px;
 }
 .name-footer a,
