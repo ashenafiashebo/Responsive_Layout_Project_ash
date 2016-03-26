@@ -46,6 +46,7 @@ img {
   display: block;
   padding: 10px 15px;
 }
+
 .main-nav a {
 	font-size: .95em;
 	color: #bdc3c7;
@@ -214,6 +215,12 @@ PAGE: PORTFOLIO
 	float: left;
 	padding-left:10px;
 	margin-right: 150px;
+}
+.name-footer a,
+.main-nav-footer a{
+  text-align: center;
+  display: block;
+  padding: 10px 15px;	
 }
 .tagline {
 float: left;
