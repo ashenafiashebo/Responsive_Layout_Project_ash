@@ -152,7 +152,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .main-nav {
-  float:right;
+  float:none;
  
 }
 .main-nav li {
@@ -185,6 +185,9 @@ PAGE: PORTFOLIO
 .gallery li:nth-child(10n){
 	clear: left;
 }
+
+.main-nav {
+  float:right;
 
 }
 
