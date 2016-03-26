@@ -118,8 +118,8 @@ PAGE: PORTFOLIO
 .headline{
   margin-bottom: 0;
 }
-.tagline{
-	width: 10px;
+.tagline {
+	width: 50%;
 }
 /* ================================= 
   Media Queries
