@@ -287,12 +287,12 @@ padding-left: 10px;
  top: 200px;
  right: 125px;
 }
-.main-nav a {
+.main-nav  {
 	position:absolute;
 	top:0;
 	right: 125px;
 }
-.name a {
+.name  {
 	position:absolute;
 	top:0;
 	left: 25px;	
