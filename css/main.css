@@ -213,6 +213,7 @@ PAGE: PORTFOLIO
 .name a{
 	float: left;
 	padding-left:10px;
+	margin-right: 150px;
 }
 .tagline {
 float: left;
