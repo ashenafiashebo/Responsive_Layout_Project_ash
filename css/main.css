@@ -167,6 +167,7 @@ PAGE: PORTFOLIO
 .logo {
 	width: 250px;
 	float: right;
+	text-align: center;
 }
 	/* ---- Float clearfix ---- */
 
@@ -192,4 +193,4 @@ PAGE: PORTFOLIO
   float:right;
 
 }
-
+}
