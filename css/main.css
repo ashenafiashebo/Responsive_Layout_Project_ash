@@ -202,6 +202,7 @@ PAGE: PORTFOLIO
 
 .main-nav {
   float:right;
+  padding-right: 10px;
 
 }
 .main-nav li {
@@ -210,13 +211,14 @@ PAGE: PORTFOLIO
 }
 .name{
 	float: left;
+	padding-left:10px;
 }
 .tagline{
 float: left;
-padding-left: 150px;
+padding-left: 10px;
 }
 .logo{
  width: 390px;
- padding-right: 250px;	
+ padding-right: 10px;	
 }
 }
