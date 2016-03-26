@@ -71,11 +71,9 @@ img {
   padding-top: .5em;
   padding-bottom: .5em; 
 }
-.banner{
- text-align: center;
-}
+.banner,
 .main-footer{
-  text-align: center;
+ text-align: center;
 }
 .banner {
 	color: black;
@@ -138,12 +136,12 @@ PAGE: PORTFOLIO
   margin: 0 auto;
 }
 .name,
-.gallery
+.gallery li
  {
   float:left;
 }
 
-.gallery {
+.gallery li {
    width: 45%;
 }
 .main-nav {
@@ -169,8 +167,8 @@ PAGE: PORTFOLIO
   width: 80%;
   max-width: 1150px;
 }
-  .gallery li{
-	width: 28.3333%;
+.gallery li{
+   width: 28.3333%;
 }
 .gallery li:nth-child(4n){
 	clear: left;
