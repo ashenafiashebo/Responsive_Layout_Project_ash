@@ -279,7 +279,7 @@ padding-left: 10px;
 /* ================================= 
   Positioning Styles
 ==================================== */
-.main-header {
+body {
 	position: relative;
 }
 .logo {
