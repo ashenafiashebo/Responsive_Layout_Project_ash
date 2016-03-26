@@ -144,13 +144,17 @@ PAGE: PORTFOLIO
 }
 .name,
 .gallery li
- {
+ 
+{
   float:left;
 }
 .gallery li{
    width: 45%;
 }
-
+.main-nav {
+  float:right;
+ 
+}
 .main-nav li {
   display: inline-block;
   margin-left: 15px;
