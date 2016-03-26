@@ -11,7 +11,9 @@ body {
 	color: #3a3a3a;
 	background: whiteSmoke;
 }
-
+section {
+  background:#fff;
+}
 p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
@@ -76,7 +78,7 @@ img {
 .gallery li{
   padding-right: 1em;
   padding-left: 1em;
-  background:#fff;
+ 
 }
 .main-footer {
 	background: whiteSmoke;
