@@ -112,7 +112,7 @@ PAGE: PORTFOLIO
 /* ---- Page Elements ---- */
 
 .logo {
-	width: 200px;
+	width: 250px;
 	float: right;
 }
 .headline{
@@ -139,7 +139,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
-.gallery li:nth-child(13n){
+.gallery li:nth-child(3n){
 	clear: left;
 }
 .main-nav {
@@ -168,7 +168,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(13n){
+.gallery li:nth-child(3n){
 	clear: left;
 }
 
