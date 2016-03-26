@@ -156,7 +156,7 @@ PAGE: PORTFOLIO
 .main-nav li a {
   float:none;
   
-  display: block;
+  display: inline-block;
  
 }
 .main-nav li {
