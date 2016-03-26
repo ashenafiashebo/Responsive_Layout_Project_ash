@@ -125,6 +125,7 @@ PAGE: PORTFOLIO
 .tagline {
 	width: 50%;
 	float: none;
+	color: gray;
 }
 /* ================================= 
   Media Queries
@@ -158,7 +159,6 @@ PAGE: PORTFOLIO
 }
 .tagline {
   font-size: 1.4em;
-  color: gray;
 }
 .logo {
 	width: 250px;
