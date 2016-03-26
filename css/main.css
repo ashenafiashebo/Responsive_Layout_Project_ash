@@ -174,14 +174,18 @@ PAGE: PORTFOLIO
 }
 .name-footer a{
 	float: left;
-	display: inline-block;
+
 	
 }
 .main-nav-footer a{
 	float: right;
 	text-align: right;
-        display: inline-block;
+       
         padding: 10px 15px;
+}
+.name-footer a,
+.main-nav-footer a{
+	display:inline-block;
 }
 
 .tagline {
@@ -235,6 +239,9 @@ PAGE: PORTFOLIO
   display: block;
   padding: 10px 15px;	
 }
+.name-footer a,
+.main-nav-footer a {
+display:inline-block;
 .tagline {
 float: left;
 padding-left: 10px;
