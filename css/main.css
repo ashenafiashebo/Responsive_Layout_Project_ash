@@ -117,15 +117,14 @@ PAGE: PORTFOLIO
 /* ---- Page Elements ---- */
 
 .logo {
-	width: 250px;
-	text-align: center;
-	
+	width: 60%;
+	float: none;
 }
 .headline{
   margin-bottom: 0;
 }
 .tagline {
-	width: 45%;
+	width: 40%;
 	float: none;
 	color: gray;
 }
