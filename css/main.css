@@ -60,7 +60,7 @@ img {
 .main-header{
   padding-top: .5em;
   padding-bottom: .5em; 
-  background: whiteSmoke;
+  background: #f5f5f5;
 }
 .banner,
 .main-footer{
@@ -68,7 +68,7 @@ img {
 }
 .banner {
 	color: black;
-	background: whiteSmoke;
+	background: #f5f5f5;
         padding: 3.2em 0;
         margin-bottom: 60px;
 }
@@ -78,7 +78,7 @@ img {
  
 }
 .main-footer {
-	background: whiteSmoke;
+	background: #f5f5f5;
 	padding: 2em 0;
 	margin-top: 60px;
 }
