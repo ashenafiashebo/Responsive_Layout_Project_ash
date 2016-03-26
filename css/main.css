@@ -202,13 +202,13 @@ PAGE: PORTFOLIO
 
 .main-nav {
   float:right;
-  margin-left: 100px;
+  
 }
 .main-nav li {
   display: inline-block;
   margin-left: 15px;
 }
-.name a{
+.name {
 	float: left;
 	padding-left:10px;
 }
