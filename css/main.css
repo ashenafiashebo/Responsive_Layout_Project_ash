@@ -139,7 +139,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
-.gallery li:nth-child(13n){
+.gallery li:nth-child(3n){
 	clear: left;
 }
 .main-nav {
