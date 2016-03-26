@@ -145,9 +145,15 @@ PAGE: PORTFOLIO
  {
   float:left;
 }
+
+
 .primary,
 .secondary{
    width: 50%;	
+}
+.gallery {
+   float: left;
+   width: 45%;
 }
 .main-nav {
   float:right;
@@ -172,13 +178,12 @@ PAGE: PORTFOLIO
   width: 80%;
   max-width: 1150px;
 }
-  .feat-img {
+  .gallery li{
 	width: 28.3333%;
 }
-.feat-img:nth-child(4n){
+.gallery li:nth-child(4n){
 	clear: left;
 }
-
 
 }
 
