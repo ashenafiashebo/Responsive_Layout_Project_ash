@@ -279,7 +279,7 @@ padding-left: 10px;
 /* ================================= 
   Positioning Styles
 ==================================== */
-.banner {
+.main-header {
 	position: relative;
 }
 .logo {
@@ -287,6 +287,9 @@ padding-left: 10px;
  top: 20px;
  right: 125px;
 }
-
+.main-nav {
+	position:absolute;
+	right: 125px;
+}
 
 }
