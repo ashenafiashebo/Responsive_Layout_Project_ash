@@ -136,8 +136,11 @@ PAGE: PORTFOLIO
  {
   float:left;
 }
-.gallery li {
+.gallery li{
    width: 45%;
+}
+.gallery li:nth-child(13n){
+	clear: left;
 }
 .main-nav {
   float:right;
