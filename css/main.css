@@ -152,7 +152,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .main-nav {
-  float:none;
+  float:left;
   display: block;
  
 }
