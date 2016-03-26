@@ -137,6 +137,9 @@ PAGE: PORTFOLIO
 ==================================== */
 
 @media (min-width: 769px) {
+body{
+	padding-top: 112px;
+	}
    .main-header {
    position:fixed;
    background:#f5f5f5;
