@@ -147,9 +147,13 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
+ .name a{
+ 	float:none;
+ 	
+ }
 .name a,
 .main-nav li {
-  float:none;
+ 
   text-align: center;
   display: inline-block;
   padding: 10px 15px;
