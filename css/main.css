@@ -151,7 +151,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .name a,
-.main-nav li {
+.main-nav li a{
   float:none;
   text-align: center;
   display: block;
