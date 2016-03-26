@@ -242,6 +242,7 @@ PAGE: PORTFOLIO
 .name-footer a,
 .main-nav-footer a {
 display:inline-block;
+}
 .tagline {
 float: left;
 padding-left: 10px;
