@@ -287,12 +287,12 @@ text-align: left;
 }
 .logo {
  position: absolute;
- top: 50%;
+ top: 20px;
  right: 145px;
 }
 .tagline{
 position: absolute;
-top: 50%;
+top: 20px;
 left: 110px;
 }
 
