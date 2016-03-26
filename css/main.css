@@ -81,6 +81,12 @@ img {
 	padding: 2em 0;
 	margin-top: 60px;
 }
+.footer-banner {
+	color: black;
+	background: #f5f5f5;
+        padding: 3.2em 0;
+        margin-bottom: 80px;
+}
 /*********************************************
 PAGE: PORTFOLIO
 **********************************************/
