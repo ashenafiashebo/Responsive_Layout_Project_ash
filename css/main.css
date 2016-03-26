@@ -118,7 +118,9 @@ PAGE: PORTFOLIO
 .headline{
   margin-bottom: 0;
 }
-
+.tagline{
+	width: 150px;
+}
 /* ================================= 
   Media Queries
 ==================================== */
