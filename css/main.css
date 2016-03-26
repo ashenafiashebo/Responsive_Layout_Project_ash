@@ -151,11 +151,8 @@ PAGE: PORTFOLIO
 .main-nav li {
   float:none;
   text-align: center;
-  display: block;
+  display: inline-block;
   padding: 10px 15px;
-}
-.main-nav li a{
-	display: inline-block;
 }
 .tagline {
   font-size: 1.4em;
