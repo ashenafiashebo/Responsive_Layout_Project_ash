@@ -216,9 +216,11 @@ PAGE: PORTFOLIO
 	padding-left:10px;
 	margin-right: 150px;
 }
-.name-footer a,
+.name-footer a{
+	float: left;
+}
 .main-nav-footer a{
-  text-align: center;
+  float: right;
   display: block;
   padding: 10px 15px;	
 }
