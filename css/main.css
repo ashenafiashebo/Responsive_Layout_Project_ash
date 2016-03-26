@@ -146,6 +146,7 @@ body{
    box-shadow:0 1px 4px 0 rgba( 0, 0, 0, .4);
    width: 100%;
    top: 0;
+   z-index: 1000px;
 	}
 
 .container {
@@ -228,7 +229,7 @@ body{
    box-shadow:0 1px 4px 0 rgba( 0, 0, 0, .4);
    width: 100%;
    top: 0;
-   z-index: 1000;
+   z-index: 1000px;
 	}
 .container {
   width: 80%;
@@ -243,8 +244,6 @@ body{
 
 .main-nav a{
   float:right;
- 
-  
 }
 .main-nav li a{
   display: inline-block;
@@ -255,7 +254,6 @@ body{
 	float: left;
 	padding-left:10px;
 	margin-right: 400px;
-
 }
 .name-footer a{
 	float: left;
@@ -288,12 +286,12 @@ text-align: left;
 .logo {
  position: absolute;
  top: 70px;
- right: 145px;
+ right: 15px;
 }
-.tagline{
+.tagline {
 position: absolute;
 top: 70px;
-left: 110px;
+left: 15px;
 }
 
 }
