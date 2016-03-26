@@ -148,14 +148,14 @@ PAGE: PORTFOLIO
 {
   float:left;
 }
-.name{
-	float: none;
-}
+
 .gallery li{
    width: 45%;
 }
+.name,
 .main-nav {
-  float:right;
+  float:none;
+  
   display: block;
  
 }
