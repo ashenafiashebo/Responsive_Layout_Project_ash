@@ -190,6 +190,10 @@ PAGE: PORTFOLIO
   float:right;
 
 }
+.main-nav li {
+  display: inline-block;
+  margin-left: 15px;
+}
 .name{
 	float: left;
 }
