@@ -150,6 +150,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
+.name,
 .main-nav {
   float:right;
   text-align: center;
