@@ -213,10 +213,10 @@ PAGE: PORTFOLIO
 }
 .tagline{
 float: left;
-padding-right: 300px;
+padding-left: 100px;
 }
 .logo{
  width: 390px;
- padding-right: 200px;	
+ padding-right: 100px;	
 }
 }
