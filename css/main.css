@@ -206,7 +206,7 @@ PAGE: PORTFOLIO
 }
 @media (min-width: 1025px) {
 	.wrap{
-		min-height: 100vh;
+		min-height: calc(100vh-75px);
 	}
 	.main-header {
    position:fixed;
