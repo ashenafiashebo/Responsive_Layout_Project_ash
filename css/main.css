@@ -138,9 +138,7 @@ PAGE: PORTFOLIO
   width: 90%;
   margin: 0 auto;
 }
-h1{
-	text-align: center;
-}
+
 .banner{
 	display: inline-block;
 }
@@ -151,10 +149,7 @@ h1{
 .gallery li{
    width: 45%;
 }
- .name {
- 	float:none;
- 	display: inline-block;
- }
+ 
 .name a,
 .main-nav li a{
  
@@ -162,7 +157,9 @@ h1{
   
   padding: 10px 15px;
 }
+.name,
 .main-nav li{
+	float: none;
 	display:inline-block;
 }
 .tagline {
