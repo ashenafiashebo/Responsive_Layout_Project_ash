@@ -127,7 +127,7 @@ PAGE: PORTFOLIO
 }
 .tagline {
 	width: 50%;
-	text-align: center;
+	float: right;
 }
 /* ================================= 
   Media Queries
@@ -162,6 +162,7 @@ PAGE: PORTFOLIO
 }
 .tagline {
   font-size: 1.4em;
+  
 }
 .logo {
 	width: 250px;
