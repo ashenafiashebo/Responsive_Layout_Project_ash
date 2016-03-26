@@ -14,9 +14,7 @@ p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
 }
-h1{
-	text-align: center;
-}
+
 h2,
 h3,
 a {
@@ -139,6 +137,9 @@ PAGE: PORTFOLIO
 .container {
   width: 90%;
   margin: 0 auto;
+}
+h1 a{
+	text-align: center;
 }
 .banner{
 	display: inline-block;
