@@ -173,10 +173,12 @@ PAGE: PORTFOLIO
 }
 .tagline {
   font-size: 1.4em;
+  padding-left: 20px;
 }
 .logo {
 	width: 250px;
 	float: right;
+	padding-right: 10px;
 }
 	/* ---- Float clearfix ---- */
 
@@ -210,6 +212,10 @@ PAGE: PORTFOLIO
 	float: left;
 }
 .tagline{
-float: left;	
+float: left;
+padding-right: 10px;
+}
+.logo{
+ padding-left: 25px;	
 }
 }
