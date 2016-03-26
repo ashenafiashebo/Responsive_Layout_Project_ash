@@ -155,7 +155,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .main-nav {
-  float:none;
+  float:right;
   display: block;
  
 }
