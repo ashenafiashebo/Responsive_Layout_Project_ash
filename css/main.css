@@ -147,7 +147,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
- .name a {
+ .name {
  	float:left;
  	display: inline-block;
  }
