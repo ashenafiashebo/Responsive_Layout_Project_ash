@@ -208,8 +208,9 @@ PAGE: PORTFOLIO
 .main-nav li {
   display: inline-block;
   margin-left: 15px;
+  padding-right: 10px;
 }
-.name{
+.name a{
 	float: left;
 	padding-left:10px;
 }
