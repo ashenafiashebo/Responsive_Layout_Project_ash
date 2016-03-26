@@ -205,6 +205,9 @@ PAGE: PORTFOLIO
 	}
 }
 @media (min-width: 1025px) {
+	body{
+		padding-top: 68px;
+	}
 	.wrap{
 		min-height: calc(100vh-75px);
 	}
