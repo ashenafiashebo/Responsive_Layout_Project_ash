@@ -152,7 +152,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
-.name,
+.name a,
 .main-nav a {
   float:none;
   
