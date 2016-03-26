@@ -279,12 +279,12 @@ padding-left: 10px;
 /* ================================= 
   Positioning Styles
 ==================================== */
-.main-header{
+.banner {
 	position: relative;
 }
 .logo {
  position: absolute;
- top: 10px;
+ top: 20px;
  right: 80px;
 }
 
