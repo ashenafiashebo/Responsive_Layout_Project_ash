@@ -57,7 +57,7 @@ img {
 
 .main-nav a {
 	font-size: .95em;
-	color: #3acec2;
+	color: black;
 	text-transform: uppercase;
 }
 
@@ -76,7 +76,6 @@ img {
 }
 .main-footer{
   text-align: center;
-  background: whiteSmoke;
 }
 .banner {
 	color: black;
@@ -90,7 +89,7 @@ img {
  
 }
 .main-footer {
-	background: #d9e4ea;
+	background: whiteSmoke;
 	padding: 2em 0;
 	margin-top: 30px;
 }
@@ -119,9 +118,6 @@ PAGE: PORTFOLIO
 	color: #bdc3c7
 }
 
-
-
-
 /* ---- Page Elements ---- */
 
 .logo {
@@ -147,7 +143,6 @@ PAGE: PORTFOLIO
   float:left;
 }
 
-}
 .gallery {
    width: 45%;
 }
