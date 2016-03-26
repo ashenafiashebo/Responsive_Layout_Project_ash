@@ -205,6 +205,9 @@ PAGE: PORTFOLIO
 	}
 }
 @media (min-width: 1025px) {
+	.wrap{
+		min-height: 100vh;
+	}
 	.main-header {
    position:fixed;
    background:#fff;
