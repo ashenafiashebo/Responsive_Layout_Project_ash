@@ -276,4 +276,15 @@ padding-left: 10px;
  width: 390px;
  padding-right: 10px;	
 }
+/* ================================= 
+  Positioning Styles
+==================================== */
+
+.logo {
+ position: relative;
+ top: 100px;
+ left: 50px;
+}
+
+
 }
