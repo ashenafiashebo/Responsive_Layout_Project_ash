@@ -155,8 +155,8 @@ PAGE: PORTFOLIO
 .name a,
 .main-nav li a {
   float:none;
-  
-  display: inline-block;
+  text-align: center;
+  display: block;
  
 }
 .main-nav li {
