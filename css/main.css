@@ -23,7 +23,6 @@ h2,
 h3 {
 	margin-top: 0;
 }
-
 a {
 	text-decoration: none;
 }
@@ -140,13 +139,10 @@ PAGE: PORTFOLIO
 .banner{
 	display: inline-block;
 }
-
 .gallery li
- 
 {
   float:left;
 }
-
 .gallery li{
    width: 45%;
 }
@@ -159,12 +155,10 @@ PAGE: PORTFOLIO
 }
 .main-nav li a{
 	display: inline-block;
-	
 }
-
 .tagline {
   font-size: 1.4em;
-  
+  color: gray;
 }
 .logo {
 	width: 250px;
