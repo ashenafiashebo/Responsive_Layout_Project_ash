@@ -139,9 +139,6 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 45%;
 }
-.gallery li:nth-child(14n){
-	clear: left;
-}
 .main-nav {
   float:right;
 }
