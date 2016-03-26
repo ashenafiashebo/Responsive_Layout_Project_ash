@@ -172,6 +172,12 @@ PAGE: PORTFOLIO
 	float: none;
 	display:inline-block;
 }
+.name-footer a{
+	float: left;
+}
+.main-nav-footer a{
+	float: right;
+}
 
 .tagline {
   font-size: 1.4em;
