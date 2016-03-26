@@ -148,7 +148,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
  .name a {
- 	float:right;
+ 	float:left;
  	display: inline-block;
  }
 .name a,
