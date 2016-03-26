@@ -59,7 +59,6 @@ img {
 
 .main-header{
   padding-top: .5em;
-  text-align: center;
   padding-bottom: .5em; 
   background: #f5f5f5;
   
@@ -126,7 +125,7 @@ PAGE: PORTFOLIO
   margin-bottom: 0;
 }
 .tagline {
-	width: 50%;
+	width: 45%;
 	float: none;
 	color: gray;
 }
