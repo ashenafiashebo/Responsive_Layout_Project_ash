@@ -151,11 +151,15 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .name a,
-.main-nav li a{
+.main-nav li {
   float:none;
   text-align: center;
   display: block;
   padding: 10px 15px;
+}
+.main-nav li a{
+	display: inline-block;
+	
 }
 
 .tagline {
