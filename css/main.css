@@ -142,11 +142,14 @@ PAGE: PORTFOLIO
 .banner{
 	display: inline-block;
 }
-.name,
+
 .gallery li
  
 {
   float:left;
+}
+.name{
+	float: none;
 }
 .gallery li{
    width: 45%;
@@ -167,7 +170,6 @@ PAGE: PORTFOLIO
 .logo {
 	width: 250px;
 	float: right;
-	text-align: center;
 }
 	/* ---- Float clearfix ---- */
 
@@ -192,5 +194,8 @@ PAGE: PORTFOLIO
 .main-nav {
   float:right;
 
+}
+.name{
+	float: left;
 }
 }
