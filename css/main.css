@@ -166,11 +166,12 @@ PAGE: PORTFOLIO
   
   padding: 10px 15px;
 }
-.name,
+.name a,
 .main-nav li{
 	float: none;
 	display:inline-block;
 }
+
 .tagline {
   font-size: 1.4em;
   padding-left: 20px;
@@ -190,7 +191,7 @@ PAGE: PORTFOLIO
 }
 @media (min-width: 1025px) {
 .container {
-  width: 60%;
+  width: 70%;
   max-width: 1150px;
 }
 .gallery li{
@@ -200,13 +201,14 @@ PAGE: PORTFOLIO
 	clear: left;
 }
 
-.main-nav {
+.main-nav a{
   float:right;
   
 }
-.main-nav li {
+.main-nav li a{
   display: inline-block;
   margin-left: 15px;
+  
 }
 .name a{
 	float: left;
