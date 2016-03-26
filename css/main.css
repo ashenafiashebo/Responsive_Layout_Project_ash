@@ -208,15 +208,15 @@ PAGE: PORTFOLIO
   display: inline-block;
   margin-left: 15px;
 }
-.name {
+.name a{
 	float: left;
 	padding-left:10px;
 }
-.tagline{
+.tagline {
 float: left;
 padding-left: 10px;
 }
-.logo{
+.logo {
  width: 390px;
  padding-right: 10px;	
 }
