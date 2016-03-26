@@ -126,6 +126,7 @@ PAGE: PORTFOLIO
 }
 .tagline {
 	width: 50%;
+	text-align: center;
 }
 /* ================================= 
   Media Queries
