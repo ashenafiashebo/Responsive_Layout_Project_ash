@@ -162,6 +162,9 @@ h1{
   
   padding: 10px 15px;
 }
+.main-nav li{
+	display:inline-block;
+}
 .tagline {
   font-size: 1.4em;
 }
