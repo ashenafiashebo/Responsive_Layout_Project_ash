@@ -197,7 +197,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(6n){
+.gallery li:nth-child(13n){
 	clear: left;
 }
 
