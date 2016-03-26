@@ -153,7 +153,7 @@ PAGE: PORTFOLIO
    width: 45%;
 }
 .name,
-.main-nav {
+.main-nav a {
   float:none;
   
   display: block;
