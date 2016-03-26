@@ -72,18 +72,18 @@ img {
   padding-bottom: .5em; 
 }
 .banner{
- text-align: right;
+ text-align: center;
 }
 .main-footer{
   text-align: center;
 }
 .banner {
-	color: #fff;
+	color: black;
 	background: whiteSmoke;
         padding: 3.2em 0;
         margin-bottom: 60px;
 }
-.col {
+.gallery {
   padding-right: 1em;
   padding-left: 1em;
  
