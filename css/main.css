@@ -195,4 +195,7 @@ PAGE: PORTFOLIO
 .name{
 	float: left;
 }
+.tagline{
+float: left;	
+}
 }
