@@ -70,6 +70,7 @@ img {
 .main-header{
   padding-top: .5em;
   padding-bottom: .5em; 
+  background: whiteSmoke;
 }
 .banner,
 .main-footer{
@@ -81,7 +82,7 @@ img {
         padding: 3.2em 0;
         margin-bottom: 60px;
 }
-.gallery {
+.gallery li{
   padding-right: 1em;
   padding-left: 1em;
  
@@ -95,7 +96,7 @@ img {
 PAGE: PORTFOLIO
 **********************************************/
 
-.gallery {
+.gallery li {
 	margin: 0;
 	padding: 0;
 	list-style: none;
