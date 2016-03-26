@@ -127,7 +127,7 @@ PAGE: PORTFOLIO
 }
 .tagline {
 	width: 50%;
-	float: right;
+	float: none;
 }
 /* ================================= 
   Media Queries
