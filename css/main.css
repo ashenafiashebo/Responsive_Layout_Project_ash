@@ -214,6 +214,9 @@ body{
 	}
 }
 @media (min-width: 1025px) {
+    body {
+    	padding-top: 68px;
+    }
    .main-header {
    position:fixed;
    background:#f5f5f5;
