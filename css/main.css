@@ -214,10 +214,6 @@ PAGE: PORTFOLIO
    top:0;
 }
 
-	.wrap{
-		min-height: calc(100vh-93.3594px);
-	}
-
 .container {
   width: 80%;
   max-width: 1150px;
