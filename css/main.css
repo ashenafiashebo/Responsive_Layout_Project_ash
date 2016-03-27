@@ -271,17 +271,17 @@ text-align: left;
 /* ================================= 
   Positioning Styles
 ==================================== */
-.main-header{
+.main-nav {
 	position:relative;
-	margin-top:-68;
+	margin-top:;
 
 }
-.name {
+.name a {
  position: absolute;
  left: 5px;
 
 }
-.main-nav {
+.main-nav a {
 	position: absolute;
 	right: 5px;
 
