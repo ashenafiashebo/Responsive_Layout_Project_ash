@@ -5,7 +5,8 @@
 ==================================== */
 
 .card{
-	background: whiteSmoke;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 .flex{
  background-color: whiteSmoke;
