@@ -276,12 +276,12 @@ text-align: left;
 	margin-top:;
 
 }
-.name a {
+.name  {
  position: absolute;
  left: 5px;
 
 }
-.main-nav a {
+.main-nav  {
 	position: absolute;
 	right: 5px;
 
