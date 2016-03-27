@@ -154,6 +154,7 @@ PAGE: PORTFOLIO
 .logo {
 	width: 490px;
 	float: none;
+	padding-right: 15px;
 }
 .headline{
   margin-bottom: 0;
@@ -162,6 +163,7 @@ PAGE: PORTFOLIO
         font-size: 1em;
 	width: 40%;
 	float: none;
+	padding-right: 10px;
 	color: gray;
 	padding-left: 15px;
 }
