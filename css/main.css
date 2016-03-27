@@ -4,7 +4,9 @@
   main.css from project-one
 ==================================== */
 
-
+.card{
+	background: whiteSmoke;
+}
 .flex{
  background-color: whiteSmoke;
 }
