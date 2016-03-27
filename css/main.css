@@ -139,6 +139,9 @@ PAGE: PORTFOLIO
 
 @media (min-width: 769px) {
 /****FIXED POSITIONING****/
+body{
+	padding-top: 112px;
+}
  .main-header {
    position:fixed;
    background:#fff;
