@@ -255,6 +255,7 @@ text-align: left;
 ==================================== */
 .main-header {
 	position:relative;
+	margin-bottom: 100px;
 }
 .name  {
  position: absolute;
