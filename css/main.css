@@ -272,14 +272,14 @@ text-align: left;
 ==================================== */
 .main-header{
 	position:relative;
-	margin-bottom: 100px;
+	margin-bottom: -100px;
 }
 .name {
  position: absolute;
  left: 20px;
 
 }
-.main-nav{
+.main-nav {
 	position: absolute;
 	right: 20px;
 
