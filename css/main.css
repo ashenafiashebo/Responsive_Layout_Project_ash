@@ -269,20 +269,14 @@ text-align: left;
 }
 /* ================================= 
   Positioning Styles
-
-
+==================================== */
+main-header
  {
 	position: relative;
 }
-.logo {
- position: absolute;
- top: 70px;
- right: 15px;
+.name {
+	position: absolute;
+	left: 0;
 }
-.tagline {
-position: absolute;
-top: 70px;
-left: 15px;
-}
-==================================== */
+
 }
