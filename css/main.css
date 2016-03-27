@@ -59,7 +59,10 @@ img {
 }
 
 /* ---- Layout Containers ---- */
-
+.card{
+	padding-right: 2em;
+	padding-left: 2em;
+}
 .main-header{
   padding-top: .5em;
   padding-bottom: .5em; 
