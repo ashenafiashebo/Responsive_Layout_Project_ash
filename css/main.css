@@ -258,21 +258,21 @@ text-align: left;
 }
 .name  {
  position: absolute;
- left: 15px;
+ left: 5px;
 
 }
 .main-nav {
 	position: absolute;
-	right: 15px;
+	right: 5px;
 
 }
-.logo{
+.logo {
 position: absolute;
-right: 15px;	
+right: 5px;	
 }
 .tagline{
  position: absolute;
- left: 15px;	
+ left: 5px;	
 }
 
 }
