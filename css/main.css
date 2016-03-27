@@ -264,23 +264,12 @@ padding-left: 10px;
 text-align: left;
 }
 .logo {
- width: 290px;
+ width: 390px;
  padding-right: 10px;	
 }
 /* ================================= 
   Positioning Styles
 ==================================== */
-main-header
- {
-	position: relative;
-}
-.name {
-	position: absolute;
-	left: 10px;
-}
-.main-nav{
-        position: absolute;
-        right: 10px;
-}
+
 
 }
