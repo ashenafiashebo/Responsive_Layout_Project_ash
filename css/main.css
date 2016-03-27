@@ -260,16 +260,6 @@ text-align: left;
 /* ================================= 
   Positioning Styles
 ==================================== */
-.main-header {
-	position:relative;
-}
-.name  {
- position: absolute;
- left: 5px;
-}
-.main-nav {
-	position: absolute;
-	right: 5px;
-}
+
 
 }
