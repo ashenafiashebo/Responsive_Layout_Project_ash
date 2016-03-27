@@ -6,10 +6,8 @@
 
 
 .flex{
- background-color: lightblue;
+ background-color: whiteSmoke;
 }
-
-
 .card:hover {
 border-color : #ff99ff;
 }
