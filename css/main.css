@@ -255,15 +255,14 @@ text-align: left;
 ==================================== */
 .main-header {
 	position:relative;
-	margin-bottom: 100px;
 }
 .name  {
  position: absolute;
  left: 5px;
-
 }
 .main-nav {
 	position: absolute;
 	right: 5px;
 }
+
 }
