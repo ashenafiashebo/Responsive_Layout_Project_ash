@@ -270,9 +270,7 @@ text-align: left;
 /* ================================= 
   Positioning Styles
 ==================================== */
-main-header{
-	position:relative;
-}
+
 .logo{
  position: absolute;
  right: 20px;
