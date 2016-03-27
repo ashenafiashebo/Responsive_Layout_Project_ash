@@ -264,14 +264,14 @@ padding-left: 10px;
 text-align: left;
 }
 .logo {
- width: 390px;
+ width: 290px;
  padding-right: 10px;	
 }
 /* ================================= 
   Positioning Styles
 ==================================== */
 
-.logo{
+.logo {
  position: absolute;
  right: 20px;
 }
