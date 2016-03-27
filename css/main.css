@@ -4,21 +4,12 @@
   main.css from project-one
 ==================================== */
 
-.card h5 {
-text-decoration : underline;
-}
-.card h4 {
-color : lightblue;
-}
+
 .flex{
  background-color: lightblue;
 }
-.card h3 {
-color : gray;
-}
-.card h2 {
-color : lightgray;
-}
+
+
 .card:hover {
 border-color : #ff99ff;
 }
