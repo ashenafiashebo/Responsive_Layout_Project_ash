@@ -282,14 +282,11 @@ main-header
         position: absolute;
         right: 10px;
 }
-.banner{
-     position: relative;	
-}
-     .tagline{
+.tagline{
      	position: absolute;
      	left: 10px;
      }
-     .logo{
+ .logo{
      	position: absolute;
      	right: 10px;
      }
