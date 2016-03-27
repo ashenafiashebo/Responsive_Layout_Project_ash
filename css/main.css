@@ -48,7 +48,6 @@ img {
   display: block;
   padding: 10px 15px;
 }
-
 .main-nav a {
 	font-size: .95em;
 	color: #bdc3c7;
@@ -287,8 +286,9 @@ padding-left: 10px;
 text-align: left;
 }
 .logo {
- width: 290px;
- padding-right: 10px;	
+ width: 390px;
+ padding-right: 30px;
+ 
 }
 /* ================================= 
   main.css from project one
