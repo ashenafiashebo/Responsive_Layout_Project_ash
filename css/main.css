@@ -272,6 +272,7 @@ text-align: left;
 ==================================== */
 .main-header{
 	position:relative;
+	margin-top: 100px;
 }
 .name {
  position: absolute;
