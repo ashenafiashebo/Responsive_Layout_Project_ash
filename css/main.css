@@ -62,7 +62,7 @@ img {
   padding-top: .5em;
   padding-bottom: .5em; 
   background: #f5f5f5;
-  margin-bottom:60px;
+ 
 }
 .banner,
 .main-footer{
@@ -141,14 +141,7 @@ PAGE: PORTFOLIO
 body{
 	padding-top: 112px;
 	}
-   .main-header {
-   position:fixed;
-   background:#f5f5f5;
-   box-shadow:0 1px 4px 0 rgba( 0, 0, 0, .4);
-   width: 100%;
-   top: 0;
-   z-index: 1000px;
-	}
+ 
 .container {
   width: 90%;
   margin: 0 auto;
