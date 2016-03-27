@@ -75,7 +75,6 @@ img {
         padding: 3.2em 0;
         margin-bottom: 60px;
         margin-top:-60px;
-}
 .gallery li {
   padding-right: 1em;
   padding-left: 1em;
@@ -266,15 +265,5 @@ text-align: left;
 .main-nav {
 	position: absolute;
 	right: 5px;
-
 }
-.logo {
-position: absolute;
-right: 5px;	
-}
-.tagline{
- position: absolute;
- left: 5px;	
-}
-
 }
