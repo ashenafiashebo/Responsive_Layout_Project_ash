@@ -276,7 +276,21 @@ main-header
 }
 .name {
 	position: absolute;
-	left: 0;
+	left: 10px;
 }
-
+.main-nav{
+        position: absolute;
+        right: 10px;
+}
+.banner{
+     position: relative;	
+}
+     .tagline{
+     	position: absolute;
+     	left: 10px;
+     }
+     .logo{
+     	position: absolute;
+     	right: 10px;
+     }
 }
