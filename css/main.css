@@ -194,20 +194,7 @@ PAGE: PORTFOLIO
 	padding-right: 10px;
 }
 
-/* ================================= 
-  Positioning Styles
-==================================== */
-.main-nav{
-position:relative;	
-}
-.logo{
-	position: absolute;
-	right: 0;
-}
-.tagline{
-	position: absolute;
-	left:0;
-}
+
 
 	/* ---- Float clearfix ---- */
 
