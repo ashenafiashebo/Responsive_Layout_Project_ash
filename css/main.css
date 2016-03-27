@@ -218,10 +218,10 @@ PAGE: PORTFOLIO
   padding-left: 20px;
 }
 .logo {
-	width: 350px;
+	width: 250px;
 	float: right;
 	padding-right: 10px;
-	border-radius:50%;
+	border-radius:25%;
 }
 
 
