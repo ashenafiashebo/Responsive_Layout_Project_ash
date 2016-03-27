@@ -270,6 +270,9 @@ text-align: left;
 /* ================================= 
   Positioning Styles
 ==================================== */
+.main-header{
+	position:relative;
+}
 .name {
  position: absolute;
  left: 20px;
