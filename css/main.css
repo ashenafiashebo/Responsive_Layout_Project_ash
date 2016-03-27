@@ -271,15 +271,15 @@ text-align: left;
   Positioning Styles
 ==================================== */
 
-.logo {
+.name {
  position: absolute;
  right: 20px;
- top: 50px;
+
 }
-.tagline{
+.main-nav{
 	position: absolute;
 	left: 20px;
-	top: 10px;
+
 }
 
 }
