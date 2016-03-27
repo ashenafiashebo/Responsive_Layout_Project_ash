@@ -272,7 +272,7 @@ text-align: left;
 ==================================== */
 .main-header{
 	position:relative;
-	margin-top:16px;
+	margin-top:0;
 
 }
 .name {
