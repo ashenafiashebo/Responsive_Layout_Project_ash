@@ -138,9 +138,7 @@ PAGE: PORTFOLIO
 ==================================== */
 
 @media (min-width: 769px) {
-body{
-	padding-top: 112px;
-	}
+
  
 .container {
   width: 90%;
@@ -204,9 +202,7 @@ body{
 	}
 }
 @media (min-width: 1025px) {
-	body{
-		padding-top: 68px;
-	}
+
 	.wrap{
 		min-height: calc(100vh-93.3594px);
 	}
