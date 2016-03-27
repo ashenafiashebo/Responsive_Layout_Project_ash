@@ -272,12 +272,12 @@ text-align: left;
 ==================================== */
 .name {
  position: absolute;
- right: 5px;
+ left: 20px;
 
 }
 .main-nav{
 	position: absolute;
-	left: 5px;
+	right: 20px;
 
 }
 
