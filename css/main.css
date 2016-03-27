@@ -156,7 +156,15 @@ PAGE: PORTFOLIO
    width: 100%;
    top:0;
 }
-
+	.primary{
+		width: 50%;
+		float: left;
+	}
+	
+	.secondary{
+		width: 40%;
+		float: right;
+	}
 .container {
   width: 90%;
   margin: 0 auto;
