@@ -271,15 +271,5 @@ text-align: left;
   Positioning Styles
 ==================================== */
 
-.name {
- position: absolute;
- right: 20px;
-
-}
-.main-nav{
-	position: absolute;
-	left: 20px;
-
-}
 
 }
