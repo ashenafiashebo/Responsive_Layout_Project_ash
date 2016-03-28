@@ -151,7 +151,8 @@ PAGE: PORTFOLIO
 .logo {
 	width: 490px;
 	float: none;
-	padding-right: 15px;
+	padding-right: 5px;
+	padding-left: 5px;
 }
 .headline{
   margin-bottom: 0;
@@ -162,7 +163,7 @@ PAGE: PORTFOLIO
 	float: none;
 	padding-right: 10px;
 	color: gray;
-	padding-left: 15px;
+	padding-left: 10px;
 }
 /* ================================= 
   Media Queries
