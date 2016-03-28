@@ -11,12 +11,12 @@ body {
 	font-family: 'Varela Round', sans-serif;
 	line-height: 1.6;
 	color: #3a3a3a;
+	background:whiteSmoke;
 }
 p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
 }
-
 h2,
 h3,
 a {
@@ -81,11 +81,11 @@ background : #0399ff;
 	padding-left: 2em;
 }
 .primary,
-.secondary{
+.secondary {
 	padding-right: 2em;
 	padding-left: 2em;	
 }
-.main-header{
+.main-header {
   padding-top: .5em;
   padding-bottom: .5em; 
   background: #f5f5f5;
@@ -181,7 +181,6 @@ PAGE: PORTFOLIO
 	width: 50%;
 	float: left;
 	}
-	
 .secondary{
 	width: 40%;
 	float: right;
@@ -189,6 +188,7 @@ PAGE: PORTFOLIO
 .container {
   width: 90%;
   margin: 0 auto;
+  background:#fff;
 }
 .main-header{
   padding-top: .5em;
