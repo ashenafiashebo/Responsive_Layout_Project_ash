@@ -61,7 +61,7 @@ img {
 .card{
 	padding-right: 2em;
 	padding-left: 2em;
-	background:#fff;
+
 }
 .primary,
 .secondary{
@@ -214,14 +214,14 @@ PAGE: PORTFOLIO
 }
 
 .tagline {
-  font-size: 1.4em;
+  font-size: 1em;
   text-align:left;
   padding-left: 20px;
 }
 .logo {
-	width: 250px;
+	width: 390px;
 	float: right;
-	padding-right: 150px;
+	padding-right: 15px;
 
 }
 
@@ -283,6 +283,7 @@ PAGE: PORTFOLIO
 display:inline-block;
 }
 .tagline {
+font-size:1.4em;
 float: left;
 padding-left: 10px;
 text-align: left;
