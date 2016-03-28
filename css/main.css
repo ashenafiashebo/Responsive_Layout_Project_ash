@@ -11,7 +11,7 @@ body {
 	font-family: 'Varela Round', sans-serif;
 	line-height: 1.6;
 	color: #3a3a3a;
-	background:whiteSmoke;
+	background:#f5f5f5;
 }
 p {
 	font-size: .95em;
@@ -59,7 +59,7 @@ img {
 
 /* ---- Layout Containers ---- */
 .flex{
- background-color: whiteSmoke;
+ background-color: #f5f5f5;
 }
 ul.skills {
 padding : 0;
@@ -88,7 +88,7 @@ background : #0399ff;
 .main-header {
   padding-top: .5em;
   padding-bottom: .5em; 
-  background: whiteSmoke;
+  background: #f5f5f5;
 }
 .banner,
 .main-footer{
@@ -171,7 +171,6 @@ PAGE: PORTFOLIO
 }
   .main-header {
    position:fixed;
-   background:#f5f5f5;
    width: 100%;
    top:0;
 }
@@ -194,7 +193,6 @@ PAGE: PORTFOLIO
   padding-top: .5em;
   text-align: center;
   padding-bottom: .5em; 
-  background: #f5f5f5;
 }
 .banner{
 	display: inline-block;
@@ -254,7 +252,6 @@ PAGE: PORTFOLIO
  }
  .main-header {
    position:fixed;
-   background:#f5f5f5;
    width: 100%;
    top:0;
 }
