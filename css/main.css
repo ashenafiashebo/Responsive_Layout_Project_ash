@@ -158,7 +158,7 @@ PAGE: PORTFOLIO
   margin-bottom: 0;
 }
 .tagline {
-        font-size: 1em;
+        font-size: 1.4em;
 	width: 40%;
 	float: none;
 	padding-right: 10px;
@@ -237,7 +237,7 @@ PAGE: PORTFOLIO
 }
 
 .tagline {
-  font-size: 1em;
+  font-size: 1.4em;
   text-align:left;
   padding-left: 20px;
 }
@@ -309,7 +309,6 @@ display:inline-block;
 font-size:1.4em;
 float: left;
 padding-left: 10px;
-text-align: left;
 }
 .logo {
  width: 390px;
