@@ -274,7 +274,7 @@ PAGE: PORTFOLIO
   max-width: 1150px;
 }
 .gallery li{
-   width: 30%;
+   width: 28.3333%;
 }
 .gallery li:nth-child(13n){
 	clear: left;
