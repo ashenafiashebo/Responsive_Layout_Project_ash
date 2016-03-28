@@ -265,7 +265,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(13n){
+.gallery li:nth-child(12n){
 	clear: left;
 }
 .main-nav a{
