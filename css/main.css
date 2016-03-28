@@ -52,6 +52,7 @@ img {
 	font-size: .95em;
 	color: #bdc3c7;
 	text-transform: uppercase;
+	margin-right: 0;
 }
 .main-nav a:hover {
 	color: #093a58;
@@ -291,7 +292,7 @@ PAGE: PORTFOLIO
 .name a{
 	float: left;
 	padding-left:10px;
-	margin-right: 400px;
+	margin-right: 40px;
 }
 .name-footer a{
 	float: left;
@@ -309,13 +310,13 @@ display:inline-block;
 font-size:1.4em;
 float: left;
 padding-left: 10px;
-margin-left:10px;
+margin-left:40px;
 }
 .logo {
  width: 390px;
  float: right;
  padding-right: 10px;
- margin-right: 10px;
+ margin-right: 40px;
  
 }
 /* ================================= 
