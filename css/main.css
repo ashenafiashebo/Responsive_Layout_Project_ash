@@ -276,7 +276,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(13n){
+.gallery li:nth-child(12n){
 	clear: left;
 }
 .main-nav a{
@@ -285,6 +285,7 @@ PAGE: PORTFOLIO
 .main-nav li a{
   display: inline-block;
   margin-left: 15px;
+  margin-right: 0;
 }
 .name a{
 	float: left;
