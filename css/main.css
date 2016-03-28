@@ -77,6 +77,7 @@ margin : 2px;
 .skills li:nth-child(odd) {
 background : #0399ff;
 }
+
 .card{
 	padding-right: 2em;
 	padding-left: 2em;
@@ -307,12 +308,12 @@ display:inline-block;
 }
 .tagline {
 font-size:1.4em;
-float: left;
+float: none;
 padding-left: 10px;
 }
 .logo {
  width: 390px;
- float: right;
+ float: none;
  padding-right: 20px;
  
 }
