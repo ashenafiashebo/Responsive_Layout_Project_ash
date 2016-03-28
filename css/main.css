@@ -52,7 +52,6 @@ img {
 	font-size: .95em;
 	color: #bdc3c7;
 	text-transform: uppercase;
-	margin-right: 0;
 }
 .main-nav a:hover {
 	color: #093a58;
@@ -60,7 +59,6 @@ img {
 
 /* ---- Layout Containers ---- */
 .flex{
-
  background-color: whiteSmoke;
 }
 ul.skills {
@@ -78,11 +76,9 @@ margin : 2px;
 .skills li:nth-child(odd) {
 background : #0399ff;
 }
-
 .card{
 	padding-right: 2em;
 	padding-left: 2em;
-
 }
 .primary,
 .secondary{
@@ -93,7 +89,6 @@ background : #0399ff;
   padding-top: .5em;
   padding-bottom: .5em; 
   background: #f5f5f5;
- 
 }
 .banner,
 .main-footer{
@@ -110,7 +105,6 @@ background : #0399ff;
   padding-right: 1em;
   padding-left: 1em;
 }
-
 .main-footer {
 	background: #f5f5f5;
 	padding: 2em 0;
@@ -124,7 +118,6 @@ background : #0399ff;
 	background: #f5f5f5;
         padding: 3.2em 0;
         margin-bottom: -128.6486px;
-      
 }
 /*********************************************
 PAGE: PORTFOLIO
@@ -176,7 +169,6 @@ PAGE: PORTFOLIO
   body {
         padding-top: 112px;
 }
-
   .main-header {
    position:fixed;
    background:#f5f5f5;
@@ -194,7 +186,6 @@ PAGE: PORTFOLIO
 	width: 40%;
 	float: right;
 	}
-	
 .container {
   width: 90%;
   margin: 0 auto;
@@ -247,10 +238,7 @@ PAGE: PORTFOLIO
 	width: 390px;
 	float: right;
 	padding-right: 15px;
-
 }
-
-
 
 	/* ---- Float clearfix ---- */
 
@@ -282,17 +270,15 @@ PAGE: PORTFOLIO
 }
 .main-nav a{
   float:right;
-  margin-right: 0;
 }
 .main-nav li a{
   display: inline-block;
   margin-left: 15px;
-  
 }
 .name a{
 	float: left;
 	padding-left:10px;
-	margin-right: 40px;
+	margin-right: 500px;
 }
 .name-footer a{
 	float: left;
