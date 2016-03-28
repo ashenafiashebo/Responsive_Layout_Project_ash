@@ -276,16 +276,17 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(12n){
+.gallery li:nth-child(6n){
 	clear: left;
 }
 .main-nav a{
   float:right;
+  margin-right: 0;
 }
 .main-nav li a{
   display: inline-block;
   margin-left: 15px;
-  margin-right: 0;
+  
 }
 .name a{
 	float: left;
@@ -308,13 +309,13 @@ display:inline-block;
 font-size:1.4em;
 float: left;
 padding-left: 10px;
-margin-left:130px;
+margin-left:10px;
 }
 .logo {
  width: 390px;
  float: right;
- padding-right: 20px;
- margin-right: 150px;
+ padding-right: 10px;
+ margin-right: 10px;
  
 }
 /* ================================= 
