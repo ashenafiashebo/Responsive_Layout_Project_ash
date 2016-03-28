@@ -58,6 +58,25 @@ img {
 }
 
 /* ---- Layout Containers ---- */
+.flex{
+
+ background-color: whiteSmoke;
+}
+ul.skills {
+padding : 0;
+text-align : center;
+}
+.skills li {
+border-radius : 6px;
+display : inline-block;
+background : #ff9904;
+color : white;
+padding : 5px 10px;
+margin : 2px;
+}
+.skills li:nth-child(odd) {
+background : #0399ff;
+}
 .card{
 	padding-right: 2em;
 	padding-left: 2em;
@@ -161,15 +180,18 @@ PAGE: PORTFOLIO
    width: 100%;
    top:0;
 }
-	.primary{
-		width: 50%;
-		float: left;
+
+/****CONTACT PAGE****/
+.primary {
+	width: 50%;
+	float: left;
 	}
 	
-	.secondary{
-		width: 40%;
-		float: right;
+.secondary{
+	width: 40%;
+	float: right;
 	}
+	
 .container {
   width: 90%;
   margin: 0 auto;
@@ -298,23 +320,5 @@ text-align: left;
   main.css from project one
 ==================================== */
 
-.flex{
 
- background-color: whiteSmoke;
-}
-ul.skills {
-padding : 0;
-text-align : center;
-}
-.skills li {
-border-radius : 6px;
-display : inline-block;
-background : #ff9904;
-color : white;
-padding : 5px 10px;
-margin : 2px;
-}
-.skills li:nth-child(odd) {
-background : #0399ff;
-}
 }
