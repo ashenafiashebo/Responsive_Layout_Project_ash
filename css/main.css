@@ -308,13 +308,15 @@ display:inline-block;
 }
 .tagline {
 font-size:1.4em;
-float: none;
+float: left;
 padding-left: 10px;
+margin-left:10px;
 }
 .logo {
  width: 390px;
- float: none;
+ float: right;
  padding-right: 20px;
+ margin-right: 20px;
  
 }
 /* ================================= 
