@@ -278,7 +278,7 @@ PAGE: PORTFOLIO
 .name a{
 	float: left;
 	padding-left:10px;
-	margin-right: 500px;
+	margin-right: 550px;
 }
 .name-footer a{
 	float: left;
@@ -296,13 +296,13 @@ display:inline-block;
 font-size:1.4em;
 float: left;
 padding-left: 10px;
-margin-left:40px;
+margin-left:60px;
 }
 .logo {
  width: 390px;
  float: right;
  padding-right: 10px;
- margin-right: 40px;
+ margin-right: 60px;
  
 }
 /* ================================= 
