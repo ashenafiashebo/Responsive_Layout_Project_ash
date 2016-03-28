@@ -99,7 +99,7 @@ background : #0399ff;
 	display: block;
 	background: #f5f5f5;
         padding: 1.2em 0;
-        margin-bottom: 60px;
+        margin-bottom: 80px;
 }
 .gallery li {
   padding-right: 1em;
@@ -166,11 +166,12 @@ PAGE: PORTFOLIO
 
 @media (min-width: 769px) {
 /****FIXED POSITIONING****/
-  body {
+body {
         padding-top: 112px;
 }
   .main-header {
    position:fixed;
+   background:#f5f5f5;
    width: 100%;
    top:0;
 }
@@ -263,7 +264,7 @@ PAGE: PORTFOLIO
 .gallery li{
    width: 28.3333%;
 }
-.gallery li:nth-child(8n){
+.gallery li:nth-child(13n){
 	clear: left;
 }
 .main-nav a{
