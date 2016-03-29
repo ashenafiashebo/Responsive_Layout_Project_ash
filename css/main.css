@@ -151,12 +151,7 @@ PAGE: PORTFOLIO
 
 /* ---- Page Elements ---- */
 
-.logo {
-	width: 50%;
-	float: none;
-	padding-right: 5px;
-	padding-left: 5px;
-}
+
 .headline{
   margin-bottom: 0;
 }
@@ -242,11 +237,7 @@ body {
   text-align:left;
   padding-left: 20px;
 }
-.logo {
-	width: 390px;
-	float: right;
-	padding-right: 15px;
-}
+
 
 	/* ---- Float clearfix ---- */
 
@@ -308,13 +299,7 @@ float: left;
 padding-left: 10px;
 margin-left:80px;
 }
-.logo {
- width: 390px;
- float: right;
- padding-right: 10px;
- margin-right: 80px;
- 
-}
+
 /* ================================= 
   main.css from project one
 ==================================== */
