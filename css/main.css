@@ -106,7 +106,7 @@ background : #0399ff;
         
 }
 .banner-image {
-  min-width: 50%;
+  max-width: 50%;
 }
 
 .gallery li {
