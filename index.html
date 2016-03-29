@@ -20,8 +20,33 @@
     
   </header><!--/.main-header-->   
 
-	<div class="banner">
-		<img class="logo" src="banner-large.jpg" alt="My Picture">
+  <div class="banner">
+     <picture>
+       <source
+        media="(orientation: landscape)"
+        srcset="img/banner-large.jpg 2048w,
+                img/banner-medium 1400w,
+                img/banner-small.jpg 800w"
+         
+         />
+       
+       <source
+        
+        srcset="img/banner-square-large.jpg 1000w,
+                img/banner-square-medium.jpg 800w"
+
+         />
+     
+        <img
+         src="img/banner-medium.jpg"
+         alt="photograph of Ashenafi Ashebo infront of  trees."
+         class="banner-image"
+         />
+       
+       
+      </picture>
+     
+          </div>
 		<span class="tagline">
 		Hi! I'm a front-end developer who loves responsive 
 		design and css. I recently finished learning front-end web development at 
