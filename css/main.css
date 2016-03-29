@@ -62,7 +62,7 @@ img {
 
 /* ---- Layout Containers ---- */
 .flex{
- background-color: #f5f5f5;
+ background-color: #fff;
 }
 ul.skills {
 padding : 0;
@@ -282,7 +282,7 @@ body {
 .name a{
 	float: left;
 	padding-left:10px;
-	margin-left: 70px;
+	margin-left: 80px;
 	margin-right: 500px;
 }
 .name-footer a{
