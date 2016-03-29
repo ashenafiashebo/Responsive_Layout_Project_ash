@@ -193,9 +193,8 @@ body {
   text-align: center;
   padding-bottom: .5em; 
 }
-.wrapper{
-	display: inline-block;
-}
+
+
 .gallery li
 {
   float:left;
