@@ -105,6 +105,10 @@ background : #0399ff;
         margin-bottom: 10px;
         
 }
+.banner-image {
+  min-width: 50%;
+}
+
 .gallery li {
   padding-right: 1em;
   padding-left: 1em;
