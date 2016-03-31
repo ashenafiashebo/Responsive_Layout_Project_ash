@@ -1,5 +1,3 @@
-
-
 /* ================================= 
   Base Element Styles
 ==================================== */
@@ -11,7 +9,12 @@ body {
 	font-family: 'Varela Round', sans-serif;
 	line-height: 1.6;
 	color: #3a3a3a;
-	background:#f5f5f5;
+	margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 p {
 	font-size: .95em;
@@ -26,15 +29,13 @@ h2,
 h3 {
 	margin-top: 0;
 }
-h4{
-	text-align: center;
-}
 a {
 	text-decoration: none;
 }
 img {
 	max-width: 100%;
 }
+
 /* ================================= 
   Base Layout Styles
 ==================================== */
@@ -42,18 +43,21 @@ img {
 /* ---- Navigation ---- */
 
 .name {
-  font-size: 1.25em;
-  margin: 0;
+	font-size: 1.35em;
+	margin: 0;
+}
+.main-nav {
+	margin-top: 5px;
 }
 .name a,
 .main-nav a {
-  text-align: center;
-  display: block;
-  padding: 10px 15px;
+	text-align: center;
+	display: block;
+	padding: 10px 15px;
 }
 .main-nav a {
 	font-size: .95em;
-	color: #bdc3c7;
+	color: #3acec2;
 	text-transform: uppercase;
 }
 .main-nav a:hover {
@@ -61,247 +65,92 @@ img {
 }
 
 /* ---- Layout Containers ---- */
-.flex{
- background-color: #fff;
-}
-ul.skills {
-padding : 0;
-text-align : center;
-}
-.skills li {
-border-radius : 6px;
-display : inline-block;
-background : #ff9904;
-color : white;
-padding : 5px 10px;
-margin : 2px;
-}
-.skills li:nth-child(odd) {
-background : #0399ff;
-}
-.card{
-	padding-right: 2em;
-	padding-left: 2em;
-}
-.primary,
-.secondary {
-	padding-right: 2em;
-	padding-left: 2em;	
-}
+
 .main-header {
-  padding-top: .5em;
-  padding-bottom: .5em; 
-  background: #f5f5f5;
+	padding-top: .5em;
+	padding-bottom: .5em;
 }
-
-.main-footer{
- text-align: center;
+.banner,
+.main-footer {
+	text-align: center;
 }
-
-
-.banner-image {
-  max-width: 50%;
+.banner {
+	color: #fff;
+	background: #3acec2;
+	padding: 3.2em 0;
+	margin-bottom: 48px;
 }
-
-.gallery li {
-  padding-right: 1em;
-  padding-left: 1em;
+.col {
+	padding-right: 1em;
+	padding-left: 1em;
 }
 .main-footer {
-	background: #f5f5f5;
+	background: #d9e4ea;
 	padding: 2em 0;
-	margin-top: 60px;
-	border-top: 1px solid lightgray;
-}
-.wrapper {
-  color: #fff;
-  background: #3acec2;
-  padding: 3.2em 0;
-  margin-bottom: 60px;
-}
-.footer-banner {
-	text-align: center;
-	display: block;
-	color: #bdc3c7;
-	background: #f5f5f5;
-        padding: 3.2em 0;
-        margin-bottom: -128.6486px;
-}
-/*********************************************
-PAGE: PORTFOLIO
-**********************************************/
-
-.gallery li {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-}
-.gallery li {
-	width: 90%;
-	margin: 2.5%;
-	background-color: #fff;
-	color: #bdc3c7;
-}
-.gallery li a p {
-	margin: 0;
-	padding: 5%;
-	font-size: 0.75em;
-	color: #bdc3c7
+	margin-top: 30px;
 }
 
 /* ---- Page Elements ---- */
 
+.logo {
+	width: 190px;
+}
+.headline {
+	margin-bottom: 0;
+}
+.feat-img {
+	border-radius: 5px;
+}
 
-.headline{
-  margin-bottom: 0;
-}
-.tagline {
-        font-size: 1.4em;
-	width: 40%;
-	float: none;
-	padding-right: 10px;
-	color: gray;
-	padding-left: 10px;
-}
+/* ================================= 
+  Media Queries
+==================================== */
 /* ================================= 
   Media Queries
 ==================================== */
 
 @media (min-width: 769px) {
-/****FIXED POSITIONING****/
-body {
-        padding-top: 112px;
-}
-  .main-header {
-   position:fixed;
-   background:#f5f5f5;
-   width: 100%;
-   top:0;
-}
 
-/****CONTACT PAGE****/
-.primary {
-	width: 50%;
-	float: left;
+	.main-header,
+	.main-nav,
+  .row {
+		display: flex;
 	}
-.secondary{
-	width: 40%;
-	float: right;
+
+	.main-header {
+		flex-direction: column;
+		align-items: center;
 	}
-.container {
-  width: 90%;
-  margin: 0 auto;
-  background:#fff;
 
-}
-.main-header{
-  padding-top: .5em;
-  text-align: center;
-  padding-bottom: .5em; 
+.col {
+  flex: 1 50%;
 }
 
-
-.gallery li
-{
-  float:left;
-}
-.gallery li{
-   width: 45%;
-}
-.name a,
-.main-nav li a{
-  text-align: center;
-  padding: 10px 15px;
-}
-.name a,
-.main-nav li{
-	float: none;
-	display:inline-block;
-}
-.name-footer a{
-	float: left;
-        padding: 10px 15px;
-}
-.main-nav-footer a{
-	float: right;
-        padding: 10px 15px;
-}
-.name-footer a,
-.main-nav-footer a{
-	display:inline-block;
+.row {
+  flex-wrap: wrap;
 }
 
-.tagline {
-  font-size: 1.4em;
-  text-align:left;
-  padding-left: 20px;
+.secondary {
+  order: -1;
+}
 }
 
-
-	/* ---- Float clearfix ---- */
-
-	.clearfix::after {
-		content: " ";
-		display: table;
-		clear: both;
-	}
-}
 @media (min-width: 1025px) {
- body{
-   padding-top: 68px;
- }
- .main-header {
-   position:fixed;
-   background:#f5f5f5;
-   width: 100%;
-   top:0;
-}
-.container {
-  width: 85%;
-  max-width: 1150px;
-  background:#fff;
-}
-.gallery li{
-   width: 28.3333%;
-}
-.gallery li:nth-child(13n){
-	clear: left;
-}
-.main-nav a{
-  float:right;
-}
-.main-nav li a{
-  display: inline-block;
-  margin-left: 15px;
-}
-.name a{
-	float: left;
-	padding-left:10px;
-	margin-left: 80px;
-	margin-right: 500px;
-}
-.name-footer a{
-	float: left;
-}
-.main-nav-footer a{
-  float: right;
-  display: block;
-  padding: 10px 15px;	
-}
-.name-footer a,
-.main-nav-footer a {
-display:inline-block;
-}
-.tagline {
-font-size:1.4em;
-float: left;
-padding-left: 10px;
-margin-left:80px;
+
+	.main-header {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+.col {
+  flex-basis: 0;
 }
 
-/* ================================= 
-  main.css from project one
-==================================== */
+.primary {
+  flex-grow: 1.4;
+}
 
+}
 
+	}
 }
