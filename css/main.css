@@ -70,11 +70,9 @@ img {
 	padding-top: .5em;
 	padding-bottom: .5em;
 }
-.banner,
 .main-footer {
 	text-align: center;
 }
-
 .gallery li {
 	padding-right: 1em;
 	padding-left: 1em;
@@ -126,7 +124,6 @@ img {
 
 .secondary {
   order: -1;
-}
 }
 
 @media (min-width: 1025px) {
