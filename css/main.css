@@ -74,12 +74,7 @@ img {
 .main-footer {
 	text-align: center;
 }
-.banner {
-	color: #fff;
-	background: red;
-	padding: 3.2em 0;
-	margin-bottom: 48px;
-}
+
 .gallery li {
 	padding-right: 1em;
 	padding-left: 1em;
