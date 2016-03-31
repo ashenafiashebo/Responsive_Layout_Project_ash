@@ -76,16 +76,16 @@ img {
 }
 .banner {
 	color: #fff;
-	background: #3acec2;
+	background: red;
 	padding: 3.2em 0;
 	margin-bottom: 48px;
 }
-.col {
+.container {
 	padding-right: 1em;
 	padding-left: 1em;
 }
 .main-footer {
-	background: #d9e4ea;
+	background: red;
 	padding: 2em 0;
 	margin-top: 30px;
 }
@@ -111,9 +111,10 @@ img {
 
 @media (min-width: 769px) {
 
-	.main-header,
-	.main-nav,
-  .row {
+  .main-header,
+  .main-nav,
+  .row,
+  .container {
 		display: flex;
 	}
 
@@ -122,7 +123,7 @@ img {
 		align-items: center;
 	}
 
-.col {
+.container {
   flex: 1 50%;
 }
 
