@@ -78,9 +78,9 @@ img {
 	color: #fff;
 	background: red;
 	padding: 3.2em 0;
-	margin-bottom: 48px;
+	margin-bottom: 60px;
 }
-.container {
+.gallery {
 	padding-right: 1em;
 	padding-left: 1em;
 }
@@ -142,6 +142,13 @@ img {
 		flex-direction: row;
 		justify-content: space-between;
 	}
+}
+.gallery li{
+   width: 28.3333%;
+}
+.gallery li:nth-child(13n){
+	clear: left;
+}
 
 .col {
   flex-basis: 0;
