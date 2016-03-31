@@ -116,9 +116,8 @@ img {
 
   .main-header,
   .main-nav,
-  .banner,
-  .row,
-  .gallery li {
+  .row
+   {
 		display: flex;
 	}
 
