@@ -80,7 +80,7 @@ img {
 	padding: 3.2em 0;
 	margin-bottom: 60px;
 }
-.gallery {
+.gallery li {
 	padding-right: 1em;
 	padding-left: 1em;
 }
@@ -95,9 +95,7 @@ img {
 .logo {
 	width: 190px;
 }
-.headline {
-	margin-bottom: 0;
-}
+
 .tagline {
         font-size: 1.4em;
 	width: 40%;
@@ -119,7 +117,7 @@ img {
   .main-header,
   .main-nav,
   .row,
-  .container {
+  .gallery li {
 		display: flex;
 	}
 
@@ -128,7 +126,7 @@ img {
 		align-items: center;
 	}
 
-.container {
+.gallery li {
   flex: 1 50%;
 }
 
@@ -147,15 +145,8 @@ img {
 		flex-direction: row;
 		justify-content: space-between;
 	}
-}
-.gallery li{
-   width: 28.3333%;
-}
-.gallery li:nth-child(13n){
-	clear: left;
-}
 
-.col {
+.gallery li {
   flex-basis: 0;
 }
 
@@ -163,7 +154,4 @@ img {
   flex-grow: 1.4;
 }
 
-}
-
-	}
 }
