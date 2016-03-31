@@ -85,7 +85,7 @@ img {
 	padding-left: 1em;
 }
 .main-footer {
-	background: red;
+	background: green;
 	padding: 2em 0;
 	margin-top: 30px;
 }
@@ -116,6 +116,7 @@ img {
 
   .main-header,
   .main-nav,
+  .banner,
   .row,
   .gallery li {
 		display: flex;
